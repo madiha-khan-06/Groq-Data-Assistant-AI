@@ -8,9 +8,9 @@ from langchain_groq import ChatGroq
 from langchain_experimental.agents import create_pandas_dataframe_agent
 
 # ---- PAGE CONFIG ----
-st.set_page_config(page_title="CSV AI Agent", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Groq Data Assistant AI", page_icon="📊", layout="wide")
 
-st.title("📊 CSV AI Agent (Groq + LangChain)")
+st.title("📊 Groq Data Assistant AI (Groq + LangChain)")
 
 # ---- SIDEBAR (Settings & Upload) ----
 st.sidebar.header("⚙️ Configuration")
