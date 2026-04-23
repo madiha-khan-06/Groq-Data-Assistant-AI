@@ -17,9 +17,12 @@
 
 ## 🎥 Live Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d20315fe-17fd-43ef-9c39-4bf389f6d766" width="520"/>
-</p>
+<img width="1843" height="875" alt="Groq Data Assistant" src="https://github.com/user-attachments/assets/abf97520-959e-4e93-8e3d-c0db78afaa8b" />
+
+---
+
+<img width="1846" height="803" alt="Groq Data Assistant (2)" src="https://github.com/user-attachments/assets/e630c0a3-438e-45a1-b806-953b4f950f95" />
+
 
 ---
 
