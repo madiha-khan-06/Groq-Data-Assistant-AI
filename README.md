@@ -1,16 +1,21 @@
 
-<h1 align="center">🚀 Groq Data Assistant AI</h1>
+<h1 align="center">📊 Groq Data Assistant AI</h1>
 
 <p align="center">
-  🤖 AI-Powered Data Analyst <br>
-  📊 Analyze • Clean • Visualize Data with Natural Language
+  🚀 AI-Powered CSV Data Analyst <br>
+  💬 Chat with Your Data • 📈 Generate Insights • 📊 Create Visualizations
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue">
-  <img src="https://img.shields.io/badge/Streamlit-App-red">
-  <img src="https://img.shields.io/badge/LangChain-Agent-green">
-  <img src="https://img.shields.io/badge/Groq-LLM-black">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-Web_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-Agent-00A67E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Groq-LLM-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open_Source-Project-orange?style=for-the-badge">
+</p>
+
+<p align="center">
+  Turn raw CSV files into smart insights using AI. Upload your dataset, ask questions in plain English, and generate beautiful charts instantly.
 </p>
 
 ---
